@@ -1,0 +1,7 @@
+num = int(input("Enter a number: "))
+
+if num > 0:
+    print("The number is positive")
+    print("This line is inside the if block")
+
+print("Program finished")
